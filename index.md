@@ -20,6 +20,6 @@ Dit is fien
 
 ![schattige kuna](./foto/schattige_kuna.jpg)
 
-Dit is Kuna
+Dit is Kuna (Kuna woont nu ergens anders)
 
 ---
