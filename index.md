@@ -13,3 +13,13 @@ Dit is kleine Boris
 ### fien
 
 ![fien](./foto/fien.jpg)
+
+Dit is fien
+
+### kuna
+
+![schattige kuna](./foto/schattige_kuna.jpg)
+
+Dit is Kuna
+
+---
