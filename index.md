@@ -23,3 +23,11 @@ Dit is fien
 Dit is Kuna (Kuna woont nu ergens anders)
 
 ---
+
+![fien](./foto/fien2.jpg)
+
+![kuna](./foto/kuna2.jpg)
+
+![boris](./foto/boris2.jpg)
+
+---
