@@ -9,3 +9,7 @@ Welkom op mijn website.
 ![Kleine boris](./foto/kleine_boris.jpg)
 
 Dit is kleine Boris
+
+### fien
+
+![fien](./foto/fien.jpg)
