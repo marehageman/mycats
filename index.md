@@ -30,4 +30,7 @@ Dit is Kuna (Kuna woont nu ergens anders)
 
 ![boris](./foto/boris2.jpg)
 
+
+![boris3](https://photos.app.goo.gl/LcKuM3ACMgmzpUCp9)
+
 ---
