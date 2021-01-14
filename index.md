@@ -1,8 +1,22 @@
 # My Cats
 
-Welkom op mijn website.
+Welkom op de website van Mare.
+Ik heb al heel veel katten gehad.
+Ze heten:
+
+- Puma
+- Neo
+- Fien
+- Kuna
+- Boris
 
 ## Dit zijn mijn katten:
+
+### Puma
+
+
+### Neo
+
 
 ### Boris
 
@@ -10,13 +24,13 @@ Welkom op mijn website.
 
 Dit is kleine Boris
 
-### fien
+### Fien
 
 ![fien](./foto/fien.jpg)
 
 Dit is fien
 
-### kuna
+### Kuna
 
 ![schattige kuna](./foto/schattige_kuna.jpg)
 
