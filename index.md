@@ -14,9 +14,19 @@ Ze heten:
 
 ### Puma
 
+![Puma](./foto/puma.jpg)
+
+![Puma2](./foto/puma2.JPG)
+
+Dit is Puma
 
 ### Neo
 
+![neo](./foto/neo.JPG)
+
+![neo2](./foto/neo2.JPG)
+
+Dit is Neo
 
 ### Boris
 
