@@ -38,7 +38,7 @@ Dit is kleine Boris
 
 ![fien](./foto/fien.jpg)
 
-Dit is fien
+Dit is Fien.
 
 ### Kuna
 
