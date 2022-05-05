@@ -18,7 +18,7 @@ Ze heten:
 
 ![Puma2](./foto/puma2.JPG)
 
-Dit is Puma
+Dit is Puma.
 
 ### Neo
 
@@ -26,7 +26,7 @@ Dit is Puma
 
 ![neo2](./foto/neo2.JPG)
 
-Dit is Neo
+Dit is Neo.
 
 ### Boris
 
